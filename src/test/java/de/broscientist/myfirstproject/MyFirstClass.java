@@ -1,9 +1,12 @@
 package de.broscientist.myfirstproject;
 
-class MyFirstClass {
+class MyFirstStartClassTest {
 
-    public static void main(String[] args) {
-        System.out.println("Hello World");
+    void check_if_something_does_something() {
+        // Given
+
+        // When
+
+        // Then
     }
-
 }
